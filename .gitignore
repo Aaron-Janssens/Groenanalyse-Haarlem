@@ -1,0 +1,8 @@
+*.tif
+*.npy
+*.tif.aux.xml
+*.gpkg
+*.qgz
+.venv/
+/data/private/
+/qgis/
